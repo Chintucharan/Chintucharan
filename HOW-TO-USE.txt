@@ -1,0 +1,7 @@
+Gowni Venkat Charan - portfolio v2 (sky blue, navy, black, white)
+
+README.md + assets/  Website-style GitHub profile README with animated letters, glowing buttons,
+                     a scrolling tech stack bar and SDE-focused project cards.
+                     Put README.md in the root of your Chintucharan/Chintucharan repo and the
+                     assets folder next to it. Replace the old assets folder completely.
+index.html           Matching standalone website. Open it in a browser or host it with GitHub Pages.
